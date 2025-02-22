@@ -1,4 +1,4 @@
-# javascript-exercises
+# Javascript Coding Exercises
 A repository for showcasing my knowledge and skills in Javascript. 
 
 ## Insertion Sort
